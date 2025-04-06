@@ -1,0 +1,198 @@
+    1  pwd
+    2  cd Documents
+    3  echo "hola mundo"
+    4  whoami
+    5  who
+    6  mkdir proyecto_comandos
+    7  ls 
+    8  ls -al
+    9  pwd
+   10  echo "hola mundo"
+   11  whoami
+   12  who
+   13  mkdir tesis
+   14  lc -al
+   15  ls 
+   16  ls proyecto_comandos tesis
+   17  ls tesis
+   18  cd tesis
+   19  cd proyectos_comando
+   20  exit
+   21  ls
+   22  rm tesis
+   23  cd proyecto_comando
+   24  cd tesis
+   25  rm tesis
+   26  tree
+   27  trre
+   28  tree
+   29  sudo apt install tree
+   30  Sudamericano2024
+   31  sudo apt install tree
+   32  tree
+   33  sudo apt install tree
+   34  sudo apt update
+   35  sudo apt install tree
+   36  tree
+   37  cd ~
+   38  tree
+   39  rm tesis
+   40  rm -r tesis
+   41  tree
+   42  history
+   43  tree
+   44  history > test1.txt
+   45  cd ~
+   46  histoty > test2.txt
+   47  history > tarea-s1-fernando_fierro.txt
+   48  cd proyectos_comandos
+   49  cd proyecto_comandos
+   50  ls -al
+   51  ls
+   52  cd ..
+   53  cd 
+   54  cd proyecto comandos
+   55  cd proyecto_comandos
+   56  ls
+   57  if ls ~/proyecto_comandos/* 1> /dev/null 2>&1; then   echo "La carpeta 'proyecto_comandos' contiene al menos un archivo."; else   echo "La carpeta 'proyecto_comandos' está vacía."; fi
+   58  histoty
+   59  history
+   60  ls
+   61  ls -al
+   62  history
+   63  ls
+   64  cd proyecto_comandos
+   65  rm -r
+   66  rm -rf *
+   67  ls
+   68  history
+   69  mkdir documentos
+   70  mkdir imagenes
+   71  mkdir scripts
+   72  ls
+   73  cd documentos
+   74  notas.txt
+   75  mkdir notas.txt
+   76  ls
+   77  rm notas.txt
+   78  cd documentos
+   79  rm notas.txt
+   80  rm -r notas.txt
+   81  ls
+   82  tree
+   83  cd ..
+   84  cd
+   85  tree
+   86  rm tarea-s1-fernando_fierro.txt test1.txt test2.txt
+   87  tree
+   88  cd proyecto_comandos
+   89  tree
+   90  cd documentos
+   91  touch notas.txt
+   92  ls
+   93  nano notas.txt
+   94  cat notas.txt
+   95  cp notas.txt scripts/backup_notas.txt
+   96  cd..
+   97  cd ..
+   98  tree
+   99  cd documentos
+  100  cp notas.txt ../scripts/backup_notas.txt
+  101  cd ..
+  102  tree
+  103  mv scripts/backup_notas.txt imagenes/
+  104  tree
+  105  cd documentos
+  106  touch resumen.txt
+  107  tree
+  108  cat notas.txt > resumen.txt
+  109  cat notas.txt
+  110  cat resumen.txt
+  111  cat notas.txt > resumen.txt && > notas.txt
+  112  cat notas.txt
+  113  cat resument.txt
+  114  cat resumen.txt
+  115  cd ..
+  116  cd imagenes
+  117  ls
+  118  rm backup_notas
+  119  rm -r buckup_notas.txt
+  120  rm buckup_notas.txt
+  121  rm backup_notas.txt
+  122  ls
+  123  cd .. 
+  124  tree
+  125  rm -r imagenes
+  126  tree
+  127  history > tarea-s1-edissonfierro.txt
+  128  c..
+  129  c ..
+  130  cd ..
+  131  rm -r proyecto_comandos
+  132  rm -r proyecto_comandos{
+  133  rm -r proyecto_comandos
+  134  ls
+  135  cd eddieuser
+  136  tree
+  137  rm -r proyecto_comandos
+  138  tree
+  139  ls
+  140  tree
+  141  exit
+  142  hisrory
+  143  history
+  144  mkdir proyecto_comandos
+  145  cd proyecto_comandos
+  146  mkdir documentos imagenes scripts
+  147  ls
+  148  tree
+  149  cd documentos
+  150  touch notas.txt
+  151  ls
+  152  nano notas.txt
+  153  cat notas.txt
+  154  cp notas.txt scripts/
+  155  cd ..
+  156  cp notas.txt scripts/
+  157  ls
+  158  cp notas.txt scripts/
+  159  tree
+  160  cp notas.txt scripts/
+  161  cd documentos
+  162  cp notas.txt scripts/
+  163  ls
+  164  ls ..
+  165  cp notas.txt ../scripts/
+  166  ls
+  167  tree
+  168  cd ..
+  169  tree
+  170  scripts
+  171  cd scripts
+  172  mv notas.txt backup_notas.txt
+  173  cd ..
+  174  tree
+  175  cd scripts
+  176  mv backup_notas.txt ../imagenes/
+  177  ls
+  178  cd ..
+  179  tree
+  180  cd documentos
+  181  touch resumen.txt
+  182  ls
+  183  cd ..
+  184  tree
+  185  cd documentos
+  186  cat notas.txt > resumen.txt
+  187  cat resumen.txt
+  188  echo "Esta es una linea de prueba de añadir" >> resumen.txt
+  189  cat resumen.txt
+  190  cd ..
+  191  cd imagenes
+  192  rm backup_notas.txt
+  193  ls
+  194  cd ..
+  195  tree
+  196  rmdir imagenes
+  197  tree
+  198  history >> tarea-s1-edisson_fierro.txt
