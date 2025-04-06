@@ -22,7 +22,6 @@ A continuación, se revisaron conceptos básicos sobre los comandos de Linux, lo
 
 He creado una lista con los comandos a modo de guía, misma que registro en mi Notion personal mientras me voy familiarizando con cada uno de ellos. Esta lista me ha ayudado a organizar y comprender el uso de los comandos más básicos.
 
-A continuación, te comparto los comandos con su descripción y un ejemplo de cómo se utilizan:
 
 | Comando  | Descripción                                                  | Ejemplo                          |
 |----------|--------------------------------------------------------------|----------------------------------|
