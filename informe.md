@@ -70,7 +70,7 @@ Para realizar esta práctica el estudiante necesita tener claro los siguientes t
 
 **Paso 1:**  
 En tu directorio de trabajo, crea una carpeta llamada `proyecto_comandos`.
-
+https://github.com/Edissonfierro/Comandoslinux/blob/main/1.jpg?raw=true 
 **Paso 2:**  
 Dentro de `proyecto_comandos`, crea tres subcarpetas: `documentos`, `imagenes` y `scripts`.
 
