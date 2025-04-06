@@ -76,13 +76,15 @@ En tu directorio de trabajo, crea una carpeta llamada `proyecto_comandos`.
 
 **Paso 2:**  
 Dentro de `proyecto_comandos`, crea tres subcarpetas: `documentos`, `imagenes` y `scripts`.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/2.jpg?raw=true)
 
 **Paso 3:**  
 Dentro de la carpeta `documentos`, crea un archivo de texto llamado `notas.txt`.
 
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/3.jpg?raw=true)
 **Paso 4:**  
 Agrega al menos tres líneas de texto en `notas.txt` utilizando un editor de texto en la terminal (nano, vim) o con redireccionamiento (`echo`).
-
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/4.jpg?raw=true)
 **Paso 5:**  
 Copia el archivo `notas.txt` a la carpeta `scripts` y cambia su nombre a `backup_notas.txt`.
 
