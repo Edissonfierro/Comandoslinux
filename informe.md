@@ -90,26 +90,40 @@ Agrega al menos tres líneas de texto en `notas.txt` utilizando un editor de tex
 **Paso 5:**  
 Copia el archivo `notas.txt` a la carpeta `scripts` y cambia su nombre a `backup_notas.txt`.
 
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/5.1.jpg?raw=true)
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/5.2.jpg?raw=true)
+
 **Paso 6:**  
 Mueve el archivo `backup_notas.txt` a la carpeta `imagenes`.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/6.jpg?raw=true)
 
 **Paso 7:**  
 Crea un archivo llamado `resumen.txt` en `documentos`.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/7.jpg?raw=true)
 
 **Paso 8:**  
 Redirecciona el contenido de `notas.txt` a `resumen.txt`.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/8.jpg?raw=true)
+
 
 **Paso 9:**  
 Añade una nueva línea de texto a `resumen.txt` sin sobrescribir su contenido.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/9.jpg?raw=true)
 
 **Paso 10:**  
 Elimina el archivo `backup_notas.txt` de la carpeta `imagenes`.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/10.jpg?raw=true)
+
 
 **Paso 11:**  
 Elimina la carpeta `imagenes` (solo si está vacía).
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/11.jpg?raw=true)
+
 
 **Paso 12:**  
 Vuelca el contenido del comando `history` a un archivo llamado `tarea-s1-nombre_apellido.txt` utilizando tuberías. Sustituye `nombre_apellido` por tu nombre y apellido correspondiente.
+![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/12.jpg?raw=true)
+
 
 ## 9. Resultados esperados
 
