@@ -139,6 +139,8 @@ Se eliminó el archivo backup_notas.txt y la carpeta vacía imagenes.
 
 Se volcó el historial de comandos en un archivo tarea-s1-nombre_apellido.txt y se subió al repositorio.
 
+Se envia audio con lo aprendido. 
+
 
 
 ## 10. Bibliografía
