@@ -6,7 +6,7 @@
 
 ## 2. Tiempo de duración
 
-**4 Horas**
+**6 Horas**
 
 ## 3. Fundamentos
 
