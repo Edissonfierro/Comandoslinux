@@ -117,6 +117,7 @@ Elimina el archivo `backup_notas.txt` de la carpeta `imagenes`.
 
 **Paso 11:**  
 Elimina la carpeta `imagenes` (solo si está vacía).
+
 ![Descripción de la imagen](https://github.com/Edissonfierro/Comandoslinux/blob/main/11.jpg?raw=true)
 
 
@@ -126,6 +127,18 @@ Vuelca el contenido del comando `history` a un archivo llamado `tarea-s1-nombre_
 
 
 ## 9. Resultados esperados
+
+Se cumplió con los objetivos de la práctica:
+
+Se creó la estructura de carpetas proyecto_comandos con las subcarpetas documentos, imagenes y scripts.
+
+Se manipuló el archivo notas.txt, se copió y renombró a backup_notas.txt, y se movió a imagenes.
+
+Se creó resumen.txt, redirigiendo el contenido de notas.txt y añadiendo nueva información sin sobrescribir.
+
+Se eliminó el archivo backup_notas.txt y la carpeta vacía imagenes.
+
+Se volcó el historial de comandos en un archivo tarea-s1-nombre_apellido.txt y se subió al repositorio.
 
 
 
